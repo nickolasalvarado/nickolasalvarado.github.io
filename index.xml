@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nickolas Alvarado</title>
+    <link>/</link>
+    <description>Recent content on Nickolas Alvarado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 31 Aug 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/about/</guid>
+      <description>My name is Nickolas Alvarado if you haven&amp;rsquo;t already guessed. This is my website. I have always wanted one and I think I can finally write somewhat intelligently about certain topics.
+I love computers, math, and the internet. What better place to show that than on a website of my own? I hope you learn something by visiting my space.
+This website was built with Hugo using a modified version of the Cocoa theme.</description>
+    </item>
+    
+    <item>
+      <title>First one</title>
+      <link>/blog/first-one/</link>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/blog/first-one/</guid>
+      <description>The first actual post.</description>
+    </item>
+    
+  </channel>
+</rss>

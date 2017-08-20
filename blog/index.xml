@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Nickolas Alvarado</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on Nickolas Alvarado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 31 Aug 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First one</title>
+      <link>/blog/first-one/</link>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/blog/first-one/</guid>
+      <description>The first actual post.</description>
+    </item>
+    
+  </channel>
+</rss>
